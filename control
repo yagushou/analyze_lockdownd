@@ -1,0 +1,9 @@
+Package: com.hook.lockdownd
+Name: hook_lockdownd
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: hook
+Author: hook
+Section: Tweaks
